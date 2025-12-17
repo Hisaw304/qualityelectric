@@ -19,11 +19,11 @@ const Navbar = () => {
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-center px-4 py-2 gap-2">
           <div className="flex items-center gap-2">
             <Mail size={14} />
-            <span>accounting@qualityec.com</span>
+            <span>accounting@qualityelectricbuild.com</span>
           </div>
           <div className="flex items-center gap-2">
             <Phone size={14} />
-            <span>+1 (234) 567-8900</span>
+            <span>+1 (863) 659-8142</span>
           </div>
         </div>
       </div>

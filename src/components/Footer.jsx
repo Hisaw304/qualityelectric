@@ -70,13 +70,13 @@ const Footer = () => {
                 href="mailto:accounting@qualityec.com"
                 className="hover:underline"
               >
-                accounting@qualityec.com
+                accounting@qualityelectricbuild.com
               </a>
             </div>
             <div className="flex items-center gap-2">
               <Phone size={16} />
               <a href="tel:+12345678900" className="hover:underline">
-                +1 (234) 567-8900
+                +1 (863) 659-8142
               </a>
             </div>
 

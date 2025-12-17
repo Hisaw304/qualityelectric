@@ -80,16 +80,15 @@ const PrivacyPolicy = () => {
               href="mailto:accounting@qualityec.com"
               className="text-[var(--yellow)] hover:underline"
             >
-              accounting@qualityec.com
+              accounting@qualityelectricbuild.com
             </a>{" "}
             or call{" "}
             <a
-              href="tel:+12345678900"
+              href="tel:+8636598142"
               className="text-[var(--yellow)] hover:underline"
             >
-              +1 (234) 567-8900
+              +1 (863) 659-8142
             </a>
-            .
           </p>
         </section>
       </div>

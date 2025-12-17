@@ -13,7 +13,7 @@ const services = [
   {
     img: imgInstallation,
     title: "Electrical Installation",
-    desc: `Quality Solutions specializes in a full spectrum of electrical installation services tailored to meet the unique demands of your property. We handle a diverse range of tasks, including intricate wiring setups and comprehensive lighting installations. With an unwavering commitment to safety and efficiency, we ensure that every installation is executed meticulously, adhering to the highest industry standards.`,
+    desc: `Quality Electric & Construction specializes in a full spectrum of electrical installation services tailored to meet the unique demands of your property. We handle a diverse range of tasks, including intricate wiring setups and comprehensive lighting installations. With an unwavering commitment to safety and efficiency, we ensure that every installation is executed meticulously, adhering to the highest industry standards.`,
   },
   {
     img: imgMaintenance,

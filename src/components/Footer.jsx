@@ -1,5 +1,12 @@
 // src/components/Footer.jsx
-import { Phone, Mail, Facebook, Instagram, Linkedin } from "lucide-react";
+import {
+  Phone,
+  Mail,
+  MapPin,
+  Facebook,
+  Instagram,
+  Linkedin,
+} from "lucide-react";
 
 const Footer = () => {
   const scrollToSection = (id) => {
@@ -74,8 +81,12 @@ const Footer = () => {
               </a>
             </div>
             <div className="flex items-center gap-2">
+              <MapPin size={16} />
+              <p> 250 Old Bartow Eagle Lake RD Bartow FL 33830</p>
+            </div>
+            <div className="flex items-center gap-2">
               <Phone size={16} />
-              <a href="tel:+12345678900" className="hover:underline">
+              <a href="tel:+8636598142" className="hover:underline">
                 +1 (863) 659-8142
               </a>
             </div>
